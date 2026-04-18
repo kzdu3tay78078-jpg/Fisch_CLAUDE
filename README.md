@@ -37,13 +37,6 @@
 
 ## ⚡ Quick Load
 
-### FischHub v6
-> Auto Fish • Cast Instant • Shake • Reel 3 zones • Fly • Noclip • Walk on Water • Ctrl+Click TP • Teleports tab • Sell from Hand
-
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kzdu3tay78078-jpg/Fisch_CLAUDE/main/FischHub.lua", true))()
-```
-
 ### Utility v6
 > Noclip • Speed Hack • High Jump • Re-Jump • Shake Spam • Sell from Hand — tudo com keybind customizável
 
