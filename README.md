@@ -46,56 +46,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/kzdu3tay78078-jpg/Fis
 
 ---
 
-## 🎣 FischHub v6 — Features
-
-<details>
-<summary><b>🎣 Main Tab</b></summary>
-
-- ✅ **Auto Fish** — loop completo automático
-- ✅ **Cast Instantâneo** — `rod.events.cast:FireServer(95)` sem GUI
-- ✅ **Auto Shake** — clica direto no botão do jogo
-- ✅ **Auto Reel** — sistema 3 zonas + zona dinâmica por vara
-- ✅ **Sell from Hand** — vende da mão via RemoteEvent/Appraiser
-- ✅ **Auto Sell** — vende inventário entre ciclos
-- ✅ **Auto Equip Rod** — equipa vara do backpack automaticamente
-
-</details>
-
-<details>
-<summary><b>🏠 Local Tab</b></summary>
-
-- ✅ **Voar** — WASD + Space/Ctrl com BodyVelocity real
-- ✅ **Noclip** — atravessa paredes e terreno
-- ✅ **Walk on Water** — plataforma invisível na superfície
-- ✅ **Oxigênio Infinito** — sem afogar
-- ✅ **Speed Hack** — velocidade customizável
-- ✅ **Ctrl+Click TP** — teleporta para onde o mouse aponta
-
-</details>
-
-<details>
-<summary><b>🚀 Teleports Tab</b></summary>
-
-- ✅ TP → Vendedor / Merchant mais próximo
-- ✅ TP → Appraiser
-- ✅ TP → NPC mais próximo
-- ✅ TP → Spots do Fisch (Main Island / Deep Ocean / Moosewood / Arctic)
-- ✅ TP → Player mais próximo
-
-</details>
-
-<details>
-<summary><b>⚙️ Config Tab</b></summary>
-
-- ✅ Zona % da playerbar (reel tuning)
-- ✅ Cast Delay slider
-- ✅ Cycle Delay slider
-- ✅ Shake Speed slider
-
-</details>
-
----
-
 ## 🔧 Utility v6 — Features
 
 | Feature | Keybind padrão | Descrição |
